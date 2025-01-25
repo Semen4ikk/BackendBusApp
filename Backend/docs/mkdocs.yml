@@ -1,0 +1,12 @@
+site_name: WEB-programming with Semen4ikk
+nav:
+  - Home: index.md
+  - 3 lab:
+    - models: models.md
+    - views: views.md
+    - urls: urls.md
+    - serializers: serializers.md
+    - settings: settings.md
+    - swagger: Swagger.md
+theme:
+  name: readthedocs
